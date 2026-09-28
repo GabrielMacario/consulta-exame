@@ -1,0 +1,19 @@
+{
+  "exame": "3. UREIA, SORO",
+  "tuss": "40302580",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:49:57",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302580 ",
+      "proc_codigo": "280114141",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "UREIA (24H) - URINA",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

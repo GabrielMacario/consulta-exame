@@ -1,0 +1,19 @@
+{
+  "exame": "10. POTÁSSIO - PESQUISA E/OU DOSAGEM",
+  "tuss": "40302318",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:23",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302318",
+      "proc_codigo": "28011210",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "POTASSIO - SANGUE",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

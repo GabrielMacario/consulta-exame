@@ -1,0 +1,19 @@
+{
+  "exame": "19. ÁCIDO FÓLICO, SORO",
+  "tuss": "40301087",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:57",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40301087",
+      "proc_codigo": "28010060",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "ACIDO FOLICO (RIE)",
+      "proc_DescricaoCompleto": "ACIDO FOLICO (RIE)",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "exame": "14. TRANSFERRINA - PESQUISA E/OU DOSAGEM",
+  "tuss": "40302520",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:38",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302520",
+      "proc_codigo": "28011384",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "TRANSFERRINA",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

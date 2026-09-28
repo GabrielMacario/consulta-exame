@@ -1,0 +1,19 @@
+{
+  "exame": "17. CÁLCIO IÔNICO, SORO",
+  "tuss": "40301419",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:49",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40301419",
+      "proc_codigo": "28010337",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "CALCIO IONICO - SANGUE",
+      "proc_DescricaoCompleto": "CALCIO IONICO - SANGUE",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "exame": "11. CREATININA - PESQUISA E/OU DOSAGEM",
+  "tuss": "40301630",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:27",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40301630",
+      "proc_codigo": "28010540",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "CREATININA",
+      "proc_DescricaoCompleto": "CREATININA",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

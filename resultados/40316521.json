@@ -1,0 +1,19 @@
+{
+  "exame": "6. HORMÔNIO TIREOESTIMULANTE (TSH), SORO",
+  "tuss": "40316521",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:08",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40316521",
+      "proc_codigo": "28050703",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "TIREOESTIMULANTE (TSH), HORMONIO (R",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

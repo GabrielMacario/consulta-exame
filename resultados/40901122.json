@@ -1,0 +1,41 @@
+{
+  "exame": "27. US - ABDOME TOTAL",
+  "tuss": "40901122",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:51:25",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": false,
+      "proC_Sinonimos": "US\nUSG\nUltrassom\nUltra-som\nEcografia",
+      "proC_Tuss": "40901122",
+      "proc_codigo": "330100212",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "US ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+      "proc_DescricaoCompleto": "US ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+      "esp_id": 64,
+      "esp_Descricao": "ULTRASSONOGRAFIA"
+    },
+    {
+      "nao_Precisa_Agendar": false,
+      "proC_Sinonimos": "US\nUSG\nUltrassom\nUltra-som\nULTRASSONOGRAFIA\nECOGRAFIA",
+      "proC_Tuss": "40901122",
+      "proc_codigo": "33010021",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "US ABDOMEN TOTAL",
+      "proc_DescricaoCompleto": "US ABDOMEN TOTAL (ABDOMEN SUPERIOR, RETROPERITONIO,  RINS E BEXIGA)",
+      "esp_id": 64,
+      "esp_Descricao": "ULTRASSONOGRAFIA"
+    },
+    {
+      "nao_Precisa_Agendar": false,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40901122",
+      "proc_codigo": "330100211",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "US ABDOMEN TOTAL (PESQUISA DE REFLUXO GASTROESOFAGIANO)",
+      "proc_DescricaoCompleto": "ABDOMEN TOTAL (PESQUISA DE REFLUXO GASTROESOFAGIANO)",
+      "esp_id": 64,
+      "esp_Descricao": "ULTRASSONOGRAFIA"
+    }
+  ]
+}

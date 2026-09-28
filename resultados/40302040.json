@@ -1,0 +1,19 @@
+{
+  "exame": "7. GLICEMIA EM JEJUM",
+  "tuss": "40302040",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:12",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302040",
+      "proc_codigo": "28010973",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "GLICOSE - SANGUE",
+      "proc_DescricaoCompleto": "GLICOSE - SANGUE",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

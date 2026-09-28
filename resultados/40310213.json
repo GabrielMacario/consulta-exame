@@ -1,0 +1,30 @@
+{
+  "exame": "29. URINA 1+ CULTURA ANTIBIOGRAMA",
+  "tuss": "40310213",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:51:32",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40310213",
+      "proc_codigo": "281000341",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "ANTIBIOGRAMA - URINA REALIZADO SOMENTE SE A UROCULTURA DER POSITIVO",
+      "proc_DescricaoCompleto": "ANTIBIOGRAMA - URINA realizado somente se a urocultura der positivo",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    },
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40310213",
+      "proc_codigo": "28100549",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "URINOCULTURA - URINA",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

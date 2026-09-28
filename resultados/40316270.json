@@ -1,0 +1,19 @@
+{
+  "exame": "13. FERRITINA, SORO",
+  "tuss": "40316270",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:34",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40316270",
+      "proc_codigo": "28010795",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "FERRITINA",
+      "proc_DescricaoCompleto": "FERRITINA",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

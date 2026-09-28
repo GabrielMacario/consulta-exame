@@ -1,0 +1,19 @@
+{
+  "exame": "12. VITAMINA D (25 OH)",
+  "tuss": "40302830",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:31",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302830",
+      "proc_codigo": "2850998",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "25 hx VITAMINA, DOSAGEM",
+      "proc_DescricaoCompleto": "25 hx VITAMINA, DOSAGEM",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "exame": "28. ELETROCARDIOGRAMA (ECG) CONVENCIONAL - ATÉ 12 DERIVAÇÕES",
+  "tuss": "40101010",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:51:28",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "ECG, ELETRO, ELETROCARDIOGRAMA",
+      "proC_Tuss": "40101010",
+      "proc_codigo": "200100101",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "ECG CONVENCIONAL DE ATÉ 12 DERIVAÇÕES",
+      "proc_DescricaoCompleto": "ELETROCARDIOGRAMA\nECG CONVENCIONAL DE ATÉ 12 DERIVAÇÕES",
+      "esp_id": 1552,
+      "esp_Descricao": "ELETROCARDIOGRAMA"
+    }
+  ]
+}

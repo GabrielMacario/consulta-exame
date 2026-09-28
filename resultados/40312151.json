@@ -1,0 +1,19 @@
+{
+  "exame": "9. PROVAS DE FUNÇÃO HEPÁTICA (BILIRRUBINA TOTAL E FRAÇÕES, PROTEÍNAS TOTAIS E FRAÇÃO, FA, TGO, TGP E GAMA-PGT)",
+  "tuss": "40312151",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:19",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40312151",
+      "proc_codigo": "28140079",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "PROVAS DE FUNCAO HEPATICA (INCLUI:",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

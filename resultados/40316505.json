@@ -1,0 +1,19 @@
+{
+  "exame": "25. TESTOSTERONA LIVRE, SORO",
+  "tuss": "40316505",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:51:17",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40316505",
+      "proc_codigo": "28050770",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "TESTOSTERONA LIVRE (RIE)",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "exame": "1. SÓDIO - PESQUISA E/OU DOSAGEM",
+  "tuss": "40302423",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:49:49",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302423",
+      "proc_codigo": "280112791",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "SODIO - SANGUE",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    },
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40302423",
+      "proc_codigo": "28011279",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "SODIO (AMOSTRA UNICA) - URINA",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

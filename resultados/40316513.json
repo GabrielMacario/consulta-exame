@@ -1,0 +1,19 @@
+{
+  "exame": "26. TESTOSTERONA TOTAL, SORO",
+  "tuss": "40316513",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:51:21",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40316513",
+      "proc_codigo": "28050690",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "TESTOTERONA PLAMATICA (RIE)",
+      "proc_DescricaoCompleto": "",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

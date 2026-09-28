@@ -1,0 +1,19 @@
+{
+  "exame": "20. ÁCIDO ÚRICO - PESQUISA E/OU DOSAGEM",
+  "tuss": "40301150",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:51:00",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40301150",
+      "proc_codigo": "28010175",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "ACIDO URICO - SANGUE",
+      "proc_DescricaoCompleto": "ACIDO URICO - SANGUE",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

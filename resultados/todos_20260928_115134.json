@@ -1,0 +1,571 @@
+[
+  {
+    "exame": "1. SÓDIO - PESQUISA E/OU DOSAGEM",
+    "tuss": "40302423",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:49:49",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302423",
+        "proc_codigo": "280112791",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "SODIO - SANGUE",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      },
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302423",
+        "proc_codigo": "28011279",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "SODIO (AMOSTRA UNICA) - URINA",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "2. HEMOGRAMA COMPLETO",
+    "tuss": "40304361",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:49:53",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40304361",
+        "proc_codigo": "28040481",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "HEMOGRAMA COMPLETO - SANGUE",
+        "proc_DescricaoCompleto": "HEMOGRAMA COMPLETO - SANGUE",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      },
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40304361",
+        "proc_codigo": "28040562",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "PLAQUETAS, CONTAGEM DE",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "3. UREIA, SORO",
+    "tuss": "40302580",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:49:57",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302580 ",
+        "proc_codigo": "280114141",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "UREIA (24H) - URINA",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "4. TRIGLICERÍDEOS, SORO",
+    "tuss": "40302547",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:00",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302547",
+        "proc_codigo": "280113922",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "TRIGLICERIDEOS - SANGUE",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "5. HEMOGLOBINA GLICADA",
+    "tuss": "40302075",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:04",
+    "resposta": []
+  },
+  {
+    "exame": "6. HORMÔNIO TIREOESTIMULANTE (TSH), SORO",
+    "tuss": "40316521",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:08",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40316521",
+        "proc_codigo": "28050703",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "TIREOESTIMULANTE (TSH), HORMONIO (R",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "7. GLICEMIA EM JEJUM",
+    "tuss": "40302040",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:12",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302040",
+        "proc_codigo": "28010973",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "GLICOSE - SANGUE",
+        "proc_DescricaoCompleto": "GLICOSE - SANGUE",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "8. COLESTEROL TOTAL E FRAÇÕES COM TRIGLICÉRIDES",
+    "tuss": "40302750",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:16",
+    "resposta": []
+  },
+  {
+    "exame": "9. PROVAS DE FUNÇÃO HEPÁTICA (BILIRRUBINA TOTAL E FRAÇÕES, PROTEÍNAS TOTAIS E FRAÇÃO, FA, TGO, TGP E GAMA-PGT)",
+    "tuss": "40312151",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:19",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40312151",
+        "proc_codigo": "28140079",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "PROVAS DE FUNCAO HEPATICA (INCLUI:",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "10. POTÁSSIO - PESQUISA E/OU DOSAGEM",
+    "tuss": "40302318",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:23",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302318",
+        "proc_codigo": "28011210",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "POTASSIO - SANGUE",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "11. CREATININA - PESQUISA E/OU DOSAGEM",
+    "tuss": "40301630",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:27",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40301630",
+        "proc_codigo": "28010540",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "CREATININA",
+        "proc_DescricaoCompleto": "CREATININA",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "12. VITAMINA D (25 OH)",
+    "tuss": "40302830",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:31",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302830",
+        "proc_codigo": "2850998",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "25 hx VITAMINA, DOSAGEM",
+        "proc_DescricaoCompleto": "25 hx VITAMINA, DOSAGEM",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "13. FERRITINA, SORO",
+    "tuss": "40316270",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:34",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40316270",
+        "proc_codigo": "28010795",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "FERRITINA",
+        "proc_DescricaoCompleto": "FERRITINA",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "14. TRANSFERRINA - PESQUISA E/OU DOSAGEM",
+    "tuss": "40302520",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:38",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302520",
+        "proc_codigo": "28011384",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "TRANSFERRINA",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "15. FERRO, SORO",
+    "tuss": "40301842",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:42",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40301842",
+        "proc_codigo": "28010809",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "FERRO SERICO",
+        "proc_DescricaoCompleto": "FERRO SERICO",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "16. VITAMINA B12, SORO",
+    "tuss": "40316572",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:46",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40316572",
+        "proc_codigo": "28011449",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "VITAMINA B-12 (RIE)",
+        "proc_DescricaoCompleto": "VITAMINA B-12 (RIE)",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "17. CÁLCIO IÔNICO, SORO",
+    "tuss": "40301419",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:49",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40301419",
+        "proc_codigo": "28010337",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "CALCIO IONICO - SANGUE",
+        "proc_DescricaoCompleto": "CALCIO IONICO - SANGUE",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "18. MAGNÉSIO - PESQUISA E/OU DOSAGEM",
+    "tuss": "40302237",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:53",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40302237",
+        "proc_codigo": "28011120",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "MAGNESIO",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "19. ÁCIDO FÓLICO, SORO",
+    "tuss": "40301087",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:50:57",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40301087",
+        "proc_codigo": "28010060",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "ACIDO FOLICO (RIE)",
+        "proc_DescricaoCompleto": "ACIDO FOLICO (RIE)",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "20. ÁCIDO ÚRICO - PESQUISA E/OU DOSAGEM",
+    "tuss": "40301150",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:00",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40301150",
+        "proc_codigo": "28010175",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "ACIDO URICO - SANGUE",
+        "proc_DescricaoCompleto": "ACIDO URICO - SANGUE",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "21. URINA 1+ CULTURA ANTIBIOGRAMA",
+    "tuss": "40310213",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:04",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40310213",
+        "proc_codigo": "281000341",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "ANTIBIOGRAMA - URINA REALIZADO SOMENTE SE A UROCULTURA DER POSITIVO",
+        "proc_DescricaoCompleto": "ANTIBIOGRAMA - URINA realizado somente se a urocultura der positivo",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      },
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40310213",
+        "proc_codigo": "28100549",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "URINOCULTURA - URINA",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "22. ELETROCARDIOGRAMA (ECG) CONVENCIONAL - ATÉ 12 DERIVAÇÕES",
+    "tuss": "40101010",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:07",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "ECG, ELETRO, ELETROCARDIOGRAMA",
+        "proC_Tuss": "40101010",
+        "proc_codigo": "200100101",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "ECG CONVENCIONAL DE ATÉ 12 DERIVAÇÕES",
+        "proc_DescricaoCompleto": "ELETROCARDIOGRAMA\nECG CONVENCIONAL DE ATÉ 12 DERIVAÇÕES",
+        "esp_id": 1552,
+        "esp_Descricao": "ELETROCARDIOGRAMA"
+      }
+    ]
+  },
+  {
+    "exame": "23. CORTISOL BASAL, SANGUE",
+    "tuss": "40316190",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:10",
+    "resposta": []
+  },
+  {
+    "exame": "24. INSULINA TOTAL E LIVRE",
+    "tuss": "40316963",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:14",
+    "resposta": []
+  },
+  {
+    "exame": "25. TESTOSTERONA LIVRE, SORO",
+    "tuss": "40316505",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:17",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40316505",
+        "proc_codigo": "28050770",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "TESTOSTERONA LIVRE (RIE)",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "26. TESTOSTERONA TOTAL, SORO",
+    "tuss": "40316513",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:21",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40316513",
+        "proc_codigo": "28050690",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "TESTOTERONA PLAMATICA (RIE)",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  },
+  {
+    "exame": "27. US - ABDOME TOTAL",
+    "tuss": "40901122",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:25",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": false,
+        "proC_Sinonimos": "US\nUSG\nUltrassom\nUltra-som\nEcografia",
+        "proC_Tuss": "40901122",
+        "proc_codigo": "330100212",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "US ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+        "proc_DescricaoCompleto": "US ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+        "esp_id": 64,
+        "esp_Descricao": "ULTRASSONOGRAFIA"
+      },
+      {
+        "nao_Precisa_Agendar": false,
+        "proC_Sinonimos": "US\nUSG\nUltrassom\nUltra-som\nULTRASSONOGRAFIA\nECOGRAFIA",
+        "proC_Tuss": "40901122",
+        "proc_codigo": "33010021",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "US ABDOMEN TOTAL",
+        "proc_DescricaoCompleto": "US ABDOMEN TOTAL (ABDOMEN SUPERIOR, RETROPERITONIO,  RINS E BEXIGA)",
+        "esp_id": 64,
+        "esp_Descricao": "ULTRASSONOGRAFIA"
+      },
+      {
+        "nao_Precisa_Agendar": false,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40901122",
+        "proc_codigo": "330100211",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "US ABDOMEN TOTAL (PESQUISA DE REFLUXO GASTROESOFAGIANO)",
+        "proc_DescricaoCompleto": "ABDOMEN TOTAL (PESQUISA DE REFLUXO GASTROESOFAGIANO)",
+        "esp_id": 64,
+        "esp_Descricao": "ULTRASSONOGRAFIA"
+      }
+    ]
+  },
+  {
+    "exame": "28. ELETROCARDIOGRAMA (ECG) CONVENCIONAL - ATÉ 12 DERIVAÇÕES",
+    "tuss": "40101010",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:28",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "ECG, ELETRO, ELETROCARDIOGRAMA",
+        "proC_Tuss": "40101010",
+        "proc_codigo": "200100101",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "ECG CONVENCIONAL DE ATÉ 12 DERIVAÇÕES",
+        "proc_DescricaoCompleto": "ELETROCARDIOGRAMA\nECG CONVENCIONAL DE ATÉ 12 DERIVAÇÕES",
+        "esp_id": 1552,
+        "esp_Descricao": "ELETROCARDIOGRAMA"
+      }
+    ]
+  },
+  {
+    "exame": "29. URINA 1+ CULTURA ANTIBIOGRAMA",
+    "tuss": "40310213",
+    "status_http": 200,
+    "consultado_em": "2026-09-28T11:51:32",
+    "resposta": [
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40310213",
+        "proc_codigo": "281000341",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "ANTIBIOGRAMA - URINA REALIZADO SOMENTE SE A UROCULTURA DER POSITIVO",
+        "proc_DescricaoCompleto": "ANTIBIOGRAMA - URINA realizado somente se a urocultura der positivo",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      },
+      {
+        "nao_Precisa_Agendar": true,
+        "proC_Sinonimos": "",
+        "proC_Tuss": "40310213",
+        "proc_codigo": "28100549",
+        "tblproceD_ID": 5,
+        "proc_Descricao": "URINOCULTURA - URINA",
+        "proc_DescricaoCompleto": "",
+        "esp_id": 500,
+        "esp_Descricao": "ANALISES CLINICAS"
+      }
+    ]
+  }
+]

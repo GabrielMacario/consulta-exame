@@ -1,0 +1,19 @@
+{
+  "exame": "15. FERRO, SORO",
+  "tuss": "40301842",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:42",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40301842",
+      "proc_codigo": "28010809",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "FERRO SERICO",
+      "proc_DescricaoCompleto": "FERRO SERICO",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}

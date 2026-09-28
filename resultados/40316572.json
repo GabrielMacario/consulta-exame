@@ -1,0 +1,19 @@
+{
+  "exame": "16. VITAMINA B12, SORO",
+  "tuss": "40316572",
+  "status_http": 200,
+  "consultado_em": "2026-09-28T11:50:46",
+  "resposta": [
+    {
+      "nao_Precisa_Agendar": true,
+      "proC_Sinonimos": "",
+      "proC_Tuss": "40316572",
+      "proc_codigo": "28011449",
+      "tblproceD_ID": 5,
+      "proc_Descricao": "VITAMINA B-12 (RIE)",
+      "proc_DescricaoCompleto": "VITAMINA B-12 (RIE)",
+      "esp_id": 500,
+      "esp_Descricao": "ANALISES CLINICAS"
+    }
+  ]
+}
